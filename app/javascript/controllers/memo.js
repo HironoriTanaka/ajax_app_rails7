@@ -1,1 +1,5 @@
-{\rtf1}
+function post (){
+
+};
+
+window.addEventListener('turbo:load', post);
